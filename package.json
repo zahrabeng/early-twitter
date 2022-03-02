@@ -1,0 +1,13 @@
+{
+  "name": "html-twitter-base",
+  "version": "1.0.0",
+  "main": "index.html",
+  "license": "CC-BY-NC-ND-4.0",
+  "devDependencies": {
+    "prettier": "2.3.1"
+  },
+  "scripts": {
+    "format": "prettier --write index.html",
+    "format:check": "prettier --check index.html"
+  }
+}
